@@ -2,4 +2,6 @@
 ## Introduction to Computer Science Course
 ### Nguyen Nguyen Anh Song
 
-Testing Github
+Testing repository 
+
+# Thanks for your watching
