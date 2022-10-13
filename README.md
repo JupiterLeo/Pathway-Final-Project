@@ -1,7 +1,5 @@
 # Pathway Edunation
 ## Introduction to Computer Science Course
-### Nguyen Nguyen Anh Song
-
-Testing repository 
+## Final Project - Group 4
 
 # Thanks for your watching
